@@ -21,6 +21,7 @@ section {
 span{
     color: red;
 }
+
 section>h2 {
     float: right;
     border-bottom: 1px solid black;
