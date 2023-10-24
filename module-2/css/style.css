@@ -18,12 +18,15 @@ section {
     margin: 10px;
 }
 
+span{
+    color: red;
+}
 section>h2 {
     float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     margin: 0;
-    width: 230px;
+    width: 300px;
     text-align: center;
     font-style: Times;
     font-size: 24px;
@@ -32,17 +35,16 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #0086f3;
+section.Abdul-Kalam>h2 {
+    background-color: #e21212;
 }
 
-section.fubini>h2 {
-    background-color: #f5005e;
+section.Bose>h2 {
+    background-color: #f50000;
 }
 
-section.luzin>h2 {
-    color: #e2e2e2;
-    background-color: #00ffb3;
+section.Bal-Gangadhar>h2 {
+    background-color: #ff0000;
 }
 
 section>p {
